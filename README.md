@@ -15,6 +15,10 @@
 ![Database](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+
+![Space Shooter](game.gif)
+
+
 <!--Estatisticas do GitHub-->
 ![](https://github-readme-stats.vercel.app/api?username=cleitonmendescoelho&show_icons=true&theme=codeSTACKr)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitonmendescoelho)](https://github.com/anuraghazra/github-readme-stats)
